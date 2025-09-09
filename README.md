@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 
 # Important Information
 
-if installing libraries, use command - npm install 
-react-router-dom might be missing. To fix it type - npm install react-router-dom in integrated terminal.
+if installing libraries, use command `npm install`
+
+
+react-router-dom might be missing. To fix it type `npm install react-router-dom` in integrated terminal.
